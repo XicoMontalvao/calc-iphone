@@ -43,9 +43,8 @@ Uma aplicação de calculadora desenvolvida com React e Styled Components, permi
 ## ▶️ Como utilizar
 
 1. Clone este repositório em sua máquina local.
-``` 
+```
 git clone https://github.com/FranciscoMontalvao/calc-iphone.git
-
 ```
 
 
@@ -53,16 +52,13 @@ git clone https://github.com/FranciscoMontalvao/calc-iphone.git
 
 ``` 
 cd calc-iphone
-
 bun i
 ```
 
 3. Execute o aplicativo localmente ou faça o deploy em sua plataforma preferida.
 
 ```
-
 bun start
-
 ```
 
 
