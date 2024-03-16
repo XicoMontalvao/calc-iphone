@@ -1,6 +1,11 @@
 # 🧮 Calculadora React
 
-Este é um aplicativo de calculadora desenvolvido utilizando React e Styled Components, com a gestão de pacotes sendo realizada através do Bun. A calculadora apresenta uma interface simples e intuitiva, permitindo realizar operações matemáticas básicas de forma eficiente.
+Uma aplicação de calculadora desenvolvida com React e Styled Components, permitindo operações matemáticas básicas de forma eficiente.
+
+
+## Link
+[![Acessar](https://img.shields.io/badge/Acesse-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://calc-iphone.vercel.app/)
+
 
 ## ✨ Funcionalidades
 
@@ -59,6 +64,7 @@ bun i
 bun start
 
 ```
+
 
 ## 🤝 Contribuições
 
