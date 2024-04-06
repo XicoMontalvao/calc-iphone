@@ -4,7 +4,7 @@ export const ButtonContainer = styled.button`
   padding: 0;
   width: ${props => (props.label ==="0" ? '140px' : '70px')};
   height: 70px;
-  border-radius: ${props => (props.label === "0" ? '36%' : '50%')};
+  border-radius: ${props => (props.label === "0" ? '38px 38px' : '50%')};
   background-color: ${props =>
     props.label === "AC" || props.label === "+/-" || props.label === "%"
       ? "rgb(148, 148, 148)"
